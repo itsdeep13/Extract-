@@ -36,8 +36,8 @@ RUN pip install "pandas==2.2.2" --no-build-isolation --no-cache-dir
 RUN pip install -r /requirements.txt --no-cache-dir
 
 # App directory
-RUN mkdir /EXTRACTOR
-WORKDIR /EXTRACTOR
+RUN mkdir /app
+WORKDIR /app
 
 # Copy startup script
 COPY start.sh /start.sh
