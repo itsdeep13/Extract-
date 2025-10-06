@@ -9,7 +9,8 @@ RUN apt-get update && apt-get install -y \
     aria2 \
     build-essential \
     python3-dev \
-    libatlas-base-dev \
+    libopenblas-dev \
+    liblapack-dev \
     gfortran \
     libffi-dev \
     libssl-dev \
