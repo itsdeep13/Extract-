@@ -4,39 +4,39 @@
   "repository": "https://github.com/DAXXTEAM",
   "env": {
     "API_ID": {
-      "description": "",
+      "description": "22484497",
       "required": true
     },
     "API_HASH": {
-      "description": "",
+      "description": "c38cb053916c47a97590c244663cbaef",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "",
+      "description": "8260828039:AAGZDWSQyHKiTCFxP7Ub64c5IwrCU86IrFk",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "",
+      "description": "CPappxdeepxpwbot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "",
+      "description": "6252997817",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "Comma-separated list of sudo users' IDs",
+      "description": "6252997817",
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "",
+      "description": "-1003120656587",
       "required": true
     },
     "MONGO_URL": {
-      "description": "",
+      "description": "mongodb+srv://uploaderbot:uploaderbot@cluster0.mpesxpw.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "1",
+      "description": "-1002934946350",
       "required": true
     }
   },
